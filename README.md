@@ -16,7 +16,7 @@ The repo covers the full lifecycle: the pre-build project charter and architectu
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [`Redshift-SOC-Project-Charter.docx`](https://github.com/Mujtabakhancy/redshift-soc/blob/main/Redshift-SOC-Project-Charter.docx)                   | Pre-build project charter & technical design document — objectives, requirements, architecture decisions and rationale, risk assessment, phased roadmap |
 | [`SOC-Home-Lab-Documentation.docx`](https://github.com/Mujtabakhancy/redshift-soc/blob/main/SOC-Home-Lab-Documentation.docx)                       | Build log — Step 1 through Step 10, with real troubleshooting and root causes documented alongside the intended process                                 |
-| [`Redshift_SOC_Attack_Simulation_Report.docx`](https://github.com/Mujtabakhancy/redshift-soc/blob/main/Redshift_SOC_Attack_Simulation_Report.docx) | Step 11 — MITRE ATT&CK-mapped attack simulations, detection engineering, Splunk telemetry validation, and detection coverage assessment                 |
+| [`Redshift_SOC_Attack_Simulation_Report.docx`](https://github.com/Mujtabakhancy/redshift-soc/blob/main/Redshift_SOC_Attack_Simulation_Report.pdf) | Step 11 — MITRE ATT&CK-mapped attack simulations, detection engineering, Splunk telemetry validation, and detection coverage assessment                 |
 
 ## Architecture
 
